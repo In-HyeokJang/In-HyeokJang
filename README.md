@@ -1,6 +1,7 @@
 ### Hi I'm In-Hyeok Jang and english name is Ethan👋
+### I’m currently learning Java, MySQL, Javascript etc..🌱
+### 백엔드에 관심 가지고 있으며, 열심히 공부 중입니다.
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ![In-HyeokJang's github stats](https://github-readme-stats.vercel.app/api?username=In-HyeokJang&show_icons=true)
 [![In-HyeokJang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=In-HyeokJang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/In-HyeokJang)
