@@ -1,4 +1,4 @@
-## Let me introduce myself.😄
+# Let me introduce myself.😄
 
 ### Hi I'm In-Hyeok Jang and english name is Ethan👋
 ### I’m currently learning Java, MySQL, Javascript etc..🌱
