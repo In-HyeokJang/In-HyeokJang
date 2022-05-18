@@ -2,8 +2,7 @@
 ### I’m currently learning Java, MySQL, Javascript etc..🌱
 ### I'm interested in backend development and I'm studying hard.📖
 
-#Languages <br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+# Languages 
 
 # Pinned
 ![In-HyeokJang's github stats](https://github-readme-stats.vercel.app/api?username=In-HyeokJang&show_icons=true)
