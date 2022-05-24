@@ -13,6 +13,7 @@
  
 
 # git stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-HyeokJang&langs_count=8)](https://github.com/In-HyeokJang/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=In-HyeokJang&show_icons=true&theme=radical)
 
 
