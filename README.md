@@ -22,7 +22,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIn-HyeokJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 
-## [My Resume](https://in-hyeokjang.notion.site/Ethan-c6951f05056149679b12d237b8fe53fe)
  </div>
 
 <!--
