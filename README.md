@@ -4,7 +4,6 @@
 ### Hi I'm In-Hyeok Jang and english name is Ethan👋
 ### I’m currently learning Java, MySQL, Javascript etc..🌱
 ### I'm interested in backend development and I'm studying hard.📖
-### [my resume](https://in-hyeokjang.notion.site/Ethan-c6951f05056149679b12d237b8fe53fe)
 
 <div align=center>
 
@@ -21,8 +20,10 @@
  
 # Pinned
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIn-HyeokJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+ 
 </div>
+[my resume](https://in-hyeokjang.notion.site/Ethan-c6951f05056149679b12d237b8fe53fe)
+
 <!--
 **In-HyeokJang/In-HyeokJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
