@@ -4,6 +4,7 @@
 ### Hi I'm In-Hyeok Jang and english name is Ethan👋
 ### I’m currently learning Java, MySQL, Javascript etc..🌱
 ### I'm interested in backend development and I'm studying hard.📖
+### [my resume](https://in-hyeokjang.notion.site/Ethan-c6951f05056149679b12d237b8fe53fe)
 
 <div align=center>
 
