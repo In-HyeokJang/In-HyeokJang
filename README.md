@@ -20,7 +20,7 @@
  
 # Pinned
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIn-HyeokJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-<a href="https://in-hyeokjang.notion.site/in-hyeokjang/Ethan-c6951f05056149679b12d237b8fe53fe/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
+<a href="https://in-hyeokjang.notion.site/in-hyeokjang/Ethan-c6951f05056149679b12d237b8fe53fe/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a>
 <a href="https://www.notion.so/28b3e16308344e64aedefc98d3889e3d/"><img src="https://img.shields.io/badge/FinalProject-Notion-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a>
  
  </div>
