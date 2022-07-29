@@ -1,4 +1,7 @@
- 
+<img src="https://capsule-render.vercel.app/api?text=ETHAN&nbsp;&nbsp;JANG&fontColor=&type=rect&color=ffffff&animation=twinkling&fontSize=140&height=&fontAlignY=60" width="100%"
+/> 
+
+
 # Let me introduce myself.😄
 
 ### Hi I'm In-Hyeok Jang and english name is Ethan👋
