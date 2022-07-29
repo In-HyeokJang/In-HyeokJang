@@ -25,14 +25,8 @@
  
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-171717?style=flat&logo=Github&logoColor=white"/>
 
-# git stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-HyeokJang&langs_count=8)](https://github.com/In-HyeokJang/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=In-HyeokJang&show_icons=true&theme=radical)
-
-
  
 # Pinned
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIn-HyeokJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 <a href="https://in-hyeokjang.notion.site/in-hyeokjang/Ethan-c6951f05056149679b12d237b8fe53fe/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a>
 <a href="https://www.notion.so/28b3e16308344e64aedefc98d3889e3d/"><img src="https://img.shields.io/badge/Notion-FinalProject-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a>
  
