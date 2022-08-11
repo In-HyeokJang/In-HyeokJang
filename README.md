@@ -12,6 +12,7 @@
 👗[ShoopingMall site: Portfolio](https://github.com/In-HyeokJang/TIL/tree/master/spring/shopping)
 
 😁[Rent-Car-Electronic : site(미완성)](https://evrent.ml/)
+🤬[Rent-Car-Electronic 서버 연결 방벙](https://github.com/In-HyeokJang/TIL/blob/master/EvRent_server_connection.md)
 
 🚘[Rent-Car-Electtronic: Portfolio](https://github.com/In-HyeokJang/TIL/tree/master/final_project)
 
