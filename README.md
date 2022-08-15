@@ -11,7 +11,7 @@
 😁[Rent-Car-Electronic : site(미완성)](https://evrent.ml/)
 🤬[Rent-Car-Electronic 서버 연결 방벙](https://github.com/In-HyeokJang/TIL/blob/master/EvRent_server_connection.md)
 
-🚘[Rent-Car-Electtronic: Ntion](https://www.notion.so/Ev-Rent-Car-28b3e16308344e64aedefc98d3889e3d)
+🚘[Rent-Car-Electtronic: Notion](https://www.notion.so/Ev-Rent-Car-28b3e16308344e64aedefc98d3889e3d)
 
 🐷[Rent-Car-Electtronic Team github](https://github.com/ISOSIM)
 
