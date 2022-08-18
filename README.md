@@ -6,17 +6,7 @@
 
 ## 👨‍💻Ethan: Portfolio
 
-👗[ShoopingMall site: Portfolio](https://github.com/In-HyeokJang/TIL/tree/master/spring/shopping)
-
-😁[Rent-Car-Electronic : site(미완성)](https://evrent.ml/)
-🤬[Rent-Car-Electronic 서버 연결 방벙](https://github.com/In-HyeokJang/TIL/blob/master/EvRent_server_connection.md)
-
-🚘[Rent-Car-Electtronic: Notion](https://www.notion.so/Ev-Rent-Car-28b3e16308344e64aedefc98d3889e3d)
-
-🐷[Rent-Car-Electtronic Team github](https://github.com/ISOSIM)
-
-### 🔥Final_Project_TIL : [Final_Project_TIL](https://github.com/In-HyeokJang/TIL/tree/master/final_project)
-
+[Portfolio](https://github.com/In-HyeokJang/Portfolio)
 
 #  🛠️ Tech
  - Back-end : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/><img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
