@@ -4,9 +4,7 @@
 ### Hi I'm In-Hyeok Jang and english name is Ethan👋
 ### I am a developer who enjoys taking on challenges in everything.
 
-## 👨‍💻Ethan: Portfolio
-
-[Portfolio](https://github.com/In-HyeokJang/Portfolio)
+## 👨‍💻Ethan: [Portfolio](https://github.com/In-HyeokJang/Portfolio)
 
 #  🛠️ Tech
  - Back-end : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/><img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
