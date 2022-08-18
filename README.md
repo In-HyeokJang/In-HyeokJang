@@ -17,9 +17,6 @@
  
 # About_
 <p>I worked as an educational mentor at an IT academy. Then, instead of recommending IT courses or employment to students, I decided to try it myself, so I took on the IT path.</p>
- 
-# Pinned
-<a href="https://in-hyeokjang.notion.site/in-hyeokjang/Ethan-c6951f05056149679b12d237b8fe53fe/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
 
  
 
