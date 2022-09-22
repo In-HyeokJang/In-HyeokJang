@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?text=ETHAN&nbsp;JANG&fontColor=&type=rect&color=ffffff&animation=twinkling&fontSize=140&height=&fontAlignY=60" width="100%"
-/> 
-
 ### Hi I'm In-Hyeok Jang and english name is Ethan👋
 ### I am a developer who enjoys taking on challenges in everything.
 
