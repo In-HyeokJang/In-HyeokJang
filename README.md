@@ -12,6 +12,7 @@
  
  - Tools :  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-171717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
  
+ <!--
 # About_
 <p>I love the challenge.<br>
 It is refreshing and new to challenge a field that I have never tried before.<br>
@@ -22,7 +23,7 @@ I decided on a career path and started taking on the challenge right away.<br>
 I went to an educational institution called Multi-Campus and listened to web service development training using an AI platform for 5 months.<br>
 One individual project and one team project were completed.<br>
 It was a short time, but I learned a lot. Now I want to go to Cooperation and do real work.</p>
-
+-->
  
 
 <!--
