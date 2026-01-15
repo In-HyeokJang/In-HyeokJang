@@ -12,19 +12,6 @@
  
  - Tools :  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-171717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
  
- <!--
-# About_
-<p>I love the challenge.<br>
-It is refreshing and new to challenge a field that I have never tried before.<br>
-It is a pleasure to see myself growing in various fields.<br>
-When you have a goal, you do your best.<br>
-I worked as an educational mentor at the IT Academy. Then, rather than recommending IT lectures or employment to students, I decided to try it myself and chose an IT career.<br>
-I decided on a career path and started taking on the challenge right away.<br>
-I went to an educational institution called Multi-Campus and listened to web service development training using an AI platform for 5 months.<br>
-One individual project and one team project were completed.<br>
-It was a short time, but I learned a lot. Now I want to go to Cooperation and do real work.</p>
--->
- 
 
 <!--
 **In-HyeokJang/In-HyeokJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
