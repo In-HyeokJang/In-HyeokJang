@@ -1,8 +1,8 @@
 ### Hi I'm In-Hyeok Jang and english name is Jay👋
 ### I am a developer who enjoys taking on challenges in everything.
-
+<%--
 ## 👨‍💻Jay: [Portfolio](https://github.com/In-HyeokJang/Portfolio)
-
+%-->
 # 🛠️ Tech Stack
 
 ### Backend
